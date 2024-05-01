@@ -30,10 +30,5 @@ All lectures (and the images I took) are located in this repo. Below is a list o
 
   A few difficulties! Besides school, these lectures were very dense! Information was packed into the last few minutes of class too. I thought this was great (more material the better). I'm still a newbie in RL, but I think this lecture series, more than anything, provided me the landscape of modern RL and gave me insights into a a number of nooks and crannies. This lecture series definitely helped solidify my fundamental understanding of RL. I remember before I'd always mix up the different Bellman equation flavors. Why does one equation have states and actions while the other has only states? These small things would always stump me! These lectures certainly clarified all of that for me. I also think a lot of RL is theoretical! The math is definitely heavy. This made some parts of the lecture a bit more dense than usual. I ended up spending a lot of time going through these lectures, but it was all worth it!
 
-## 3. Author Info
-
-- Vincent Tu:            [LinkedIn](https://www.linkedin.com/in/vincent-tu-422b18208/) | [Kaggle](https://www.kaggle.com/vincenttu)
-
-## 4. Thank You
-
-This lecture series of notes took a while to compile (maybe a few months). These notes have helped me a ton in reviewing and understanding RL. I hope they also help you (do still watch the lectures!). I knew I was in for a very insightful look into RL when I noticed how much the first lecture covered. From model-based to model-free policy evaluation and control to value function approximation, deep learning, imitation learning, policy gradients, and fast and batch RL, I found the lectures to be informative and clear. I'd like to thank Professor Brunskill for making this series possible! I'd also like to thank everyone involved in helping with this lecture series and also you the viewer! Thank you.
+## 3. Assignments
+Here are the solutions to my assignment: [Solution](https://github.com/Arshia-Gharooni/CS234-Assignments)
